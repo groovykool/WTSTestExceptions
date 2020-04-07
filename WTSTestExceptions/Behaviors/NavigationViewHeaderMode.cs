@@ -1,0 +1,9 @@
+﻿namespace WTSTestExceptions.Behaviors
+{
+    public enum NavigationViewHeaderMode
+    {
+        Always,
+        Never,
+        Minimal
+    }
+}
